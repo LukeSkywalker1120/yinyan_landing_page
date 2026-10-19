@@ -28,7 +28,7 @@ export default function App() {
       <main id="top" className="bg-page text-ink">
         <SiteHeader onPartner={() => setModal("partner")} />
         {path === "/apparel" ? (
-          <ApparelPageSections />
+          <ApparelPageSections onContact={() => setModal("service")} />
         ) : path === "/download" ? (
           <DownloadPageSections />
         ) : path === "/open-api" ? (
@@ -47,7 +47,7 @@ export default function App() {
           </>
         )}
         <FloatingButtons onOpen={setModal} />
-        <Footer />
+        <Footer onContact={() => setModal("service")} />
       </main>
       {modal && (
         <ContactModal

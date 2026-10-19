@@ -1,6 +1,6 @@
 import { BRAND_NAME, BRAND_LOGO } from "../config/brand";
 
-export function Footer() {
+export function Footer({ onContact }: { onContact: () => void }) {
   return (
     <footer className="border-t border-black/6 bg-white py-10">
       <div className="mx-auto w-full px-6 md:px-8 max-w-[1216px] flex flex-col gap-6 text-sm text-muted md:flex-row md:items-center md:justify-between">
@@ -24,9 +24,13 @@ export function Footer() {
           <a href="/#faq" className="transition hover:text-ink">
             常见问题
           </a>
-          <a href="/#contact" className="transition hover:text-ink">
+          <button
+            type="button"
+            onClick={onContact}
+            className="transition hover:text-ink"
+          >
             联系我们
-          </a>
+          </button>
         </div>
       </div>
     </footer>

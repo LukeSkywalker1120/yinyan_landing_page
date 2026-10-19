@@ -70,7 +70,7 @@ with sync_playwright() as p:
     page.wait_for_function('document.querySelector(".case-scroll img").naturalWidth > 0')
     clean(); shot('local-gallery-modal.png'); page.keyboard.press('Escape')
     page.get_by_role('button', name='立即联系客服', exact=True).click()
-    assert page.get_by_text('客服联系方式待配置', exact=True).is_visible()
+    assert page.get_by_role('dialog').locator('img').get_attribute('src') == '/images/contact/customer-service.jpg'
     clean(); shot('local-contact.png'); page.keyboard.press('Escape')
     page.get_by_role('button', name='移动端', exact=True).click()
     clean(); page.keyboard.press('Escape')

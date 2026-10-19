@@ -1,3 +1,4 @@
+import { SERVICE_QR_CODE } from "../config/brand";
 // Adapted from the public reference markup; editable React components.
 
 export function PartnerContent({
@@ -248,7 +249,7 @@ export function PartnerContent({
                   height={320}
                   decoding="async"
                   className="h-auto w-full rounded-lg"
-                  src="/images/service.jpg"
+                  src={SERVICE_QR_CODE}
                   style={{ color: "transparent" }}
                 />
               </div>

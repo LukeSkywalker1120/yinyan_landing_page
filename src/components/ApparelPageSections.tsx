@@ -1,6 +1,6 @@
 // Adapted from the public reference markup; editable React components.
 import { BeforeAfter } from "./BeforeAfter";
-export function ApparelPageSections() {
+export function ApparelPageSections({ onContact }: { onContact: () => void }) {
   return (
     <>
       <section className="border-b border-black/6 bg-white pb-16 pt-12 md:pb-24 md:pt-16">
@@ -532,7 +532,17 @@ export function ApparelPageSections() {
                     strokeLinejoin="round"
                   ></path>
                 </svg>
-                <span>{"如需企业级授权说明或合规材料，可联系我们出具"}</span>
+                <span>
+                  如需企业级授权说明或合规材料，可
+                  <button
+                    type="button"
+                    className="underline underline-offset-4"
+                    onClick={onContact}
+                  >
+                    联系我们
+                  </button>
+                  出具
+                </span>
               </li>
             </ul>
           </div>

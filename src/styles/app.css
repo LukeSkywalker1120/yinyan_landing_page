@@ -468,3 +468,11 @@ a:focus-visible,
   aspect-ratio: 2 / 3;
   object-fit: cover;
 }
+
+.service-qr-hint {
+  margin-top: 14px;
+  text-align: center;
+  color: #5f6570;
+  font-size: 12px;
+  line-height: 1.7;
+}

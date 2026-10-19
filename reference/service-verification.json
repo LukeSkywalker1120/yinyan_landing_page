@@ -1,0 +1,12 @@
+{
+  "originalQrUnchanged": true,
+  "checks": [
+    "floating support and footer on all four routes",
+    "homepage contact button",
+    "partner business QR and cooperation consultation",
+    "apparel enterprise contact",
+    "mobile service dialog",
+    "QR loaded at original 700x708 dimensions"
+  ],
+  "pageErrors": []
+}
