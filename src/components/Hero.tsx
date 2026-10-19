@@ -61,7 +61,7 @@ export function Hero() {
             <div data-reveal="">
               <div className="mt-10 flex justify-center md:mt-12">
                 <a
-                  href="https://account.ifrogai.com"
+                  href="https://yy.7w2.cn/login"
                   className="inline-flex min-w-[12.5rem] items-center justify-center rounded-full border border-white px-9 py-4 md:min-w-[13.5rem] md:px-10 bg-white text-base font-semibold text-black md:leading-tight [-webkit-backdrop-filter:blur(14px)] shadow-[0_16px_44px_-18px_rgba(0,0,0,.48)] transition-[background-color,transform] hover:-translate-y-0.5 hover:bg-white/90"
                 >
                   {"免费生成"}
@@ -80,7 +80,7 @@ export function Hero() {
                     style={{ transitionDelay: "0ms" }}
                   >
                     <img
-                      src="/images/hero/live-proof-1.webp"
+                      src="/images/hero/proof-1-model.webp"
                       alt=""
                       width={240}
                       height={300}
@@ -94,7 +94,7 @@ export function Hero() {
                     style={{ transitionDelay: "40ms" }}
                   >
                     <img
-                      src="/images/hero/live-proof-2.webp"
+                      src="/images/hero/proof-2-bag.webp"
                       alt=""
                       width={240}
                       height={300}
@@ -108,7 +108,7 @@ export function Hero() {
                     style={{ transitionDelay: "80ms" }}
                   >
                     <img
-                      src="/images/hero/live-proof-3.webp"
+                      src="/images/hero/proof-3-bottle.webp"
                       alt=""
                       width={240}
                       height={300}
@@ -122,7 +122,7 @@ export function Hero() {
                     style={{ transitionDelay: "120ms" }}
                   >
                     <img
-                      src="/images/hero/live-proof-4.webp"
+                      src="/images/hero/proof-4-texture.webp"
                       alt=""
                       width={240}
                       height={300}
@@ -137,7 +137,7 @@ export function Hero() {
                     style={{ transitionDelay: "160ms" }}
                   >
                     <img
-                      src="/images/hero/live-proof-5.webp"
+                      src="/images/hero/proof-5-video.webp"
                       alt=""
                       width={240}
                       height={300}

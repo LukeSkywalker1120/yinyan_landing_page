@@ -446,3 +446,25 @@ a:focus-visible,
     transform: none;
   }
 }
+
+.brand-contact-panel {
+  padding: 24px 16px 8px;
+  text-align: center;
+  background: #f7f7f8;
+  border-radius: 12px;
+}
+.brand-contact-panel > img {
+  display: block;
+  width: 112px;
+  height: 112px;
+  object-fit: contain;
+  margin: 0 auto 20px;
+}
+.brand-contact-panel > p {
+  color: #5f6570;
+  font-size: 14px;
+}
+#showcase-panel img {
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+}

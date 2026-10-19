@@ -1,3 +1,4 @@
+import { BRAND_NAME, BRAND_LOGO, LOGIN_URL } from "../config/brand";
 import { useEffect, useRef, useState } from "react";
 import { Dialog } from "./ui";
 
@@ -30,15 +31,13 @@ export function MobileMenu({
       <div className="mb-5 flex items-center justify-between border-b border-black/8 pb-4">
         <div className="flex items-center gap-2.5">
           <img
-            alt="轻跃｜小青蛙 AI"
+            alt={BRAND_NAME}
             className="h-9 w-9 object-contain"
             width={36}
             height={36}
-            src="/images/logo_1-removebg-preview.png"
+            src={BRAND_LOGO}
           />
-          <span className="text-lg font-semibold text-ink">
-            轻跃｜小青蛙 AI
-          </span>
+          <span className="text-lg font-semibold text-ink">{BRAND_NAME}</span>
         </div>
         <button
           type="button"
@@ -96,7 +95,7 @@ export function MobileMenu({
           )}
         </div>
         <a
-          href="https://yy.7w2.cn/login"
+          href={LOGIN_URL}
           className="inline-flex items-center justify-center rounded-xl px-5 py-2.5 text-sm font-semibold transition-all duration-300 bg-ink text-white shadow-card hover:-translate-y-0.5 hover:bg-black w-full"
         >
           立即体验
@@ -121,21 +120,7 @@ export function LanguageMenu({ onClose }: { onClose: () => void }) {
       role="listbox"
       aria-label="选择语言"
     >
-      {[
-        ["🇨🇳", "简体中文", "/"],
-        ["🇭🇰", "繁體中文", "https://www.ifrog.ai/zh-tw/"],
-        ["🇺🇸", "English", "https://www.ifrog.ai/"],
-        ["🇯🇵", "日本語", "https://www.ifrog.ai/ja/"],
-        ["🇰🇷", "한국어", "https://www.ifrog.ai/ko/"],
-        ["🇲🇾", "Bahasa Melayu", "https://www.ifrog.ai/ms/"],
-        ["🇻🇳", "Tiếng Việt", "https://www.ifrog.ai/vi/"],
-        ["🇹🇭", "ไทย", "https://www.ifrog.ai/th/"],
-        ["🇮🇩", "Indonesia", "https://www.ifrog.ai/id/"],
-        ["🇩🇪", "Deutsch", "https://www.ifrog.ai/de/"],
-        ["🇫🇷", "Français", "https://www.ifrog.ai/fr/"],
-        ["🇮🇹", "Italiano", "https://www.ifrog.ai/it/"],
-        ["🇸🇦", "العربية", "https://www.ifrog.ai/ar/"],
-      ].map(([flag, name, url]) => (
+      {[["🇨🇳", "简体中文", "/"]].map(([flag, name, url]) => (
         <a
           role="option"
           aria-selected={name === "简体中文"}

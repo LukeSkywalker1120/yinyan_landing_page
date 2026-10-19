@@ -86,13 +86,7 @@ export function ApiPageSections() {
           <div className="mx-auto mt-9 max-w-xl" data-reveal="">
             <ApiWaitlistForm />
             <p className="mt-6 text-center text-xs text-black/45">
-              {"也可以直接发邮件给我们："}
-              <a
-                href="mailto:hello@ifrog.ai?subject=Open%20API%20waitlist"
-                className="font-medium text-ink underline decoration-black/25 underline-offset-2 transition hover:decoration-black/50"
-              >
-                {"hello@ifrog.ai"}
-              </a>
+              登记内容仅保存在当前浏览器，支持复制留存。
             </p>
           </div>
         </div>

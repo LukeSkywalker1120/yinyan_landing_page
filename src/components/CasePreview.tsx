@@ -20,7 +20,7 @@ export function CasePreview({
       </button>
       {!loaded && (
         <div className="case-loading" role="status" aria-label="正在加载图片">
-          ifrogai
+          影焰AI
         </div>
       )}
       <div
@@ -31,7 +31,7 @@ export function CasePreview({
         {item.urls.map((url, index) => (
           <img
             key={url}
-            src={`${url.split("?")[0]}?imageMogr2/thumbnail/960x/format/webp/quality/82`}
+            src={url}
             alt={`${item.title} ${index + 1}`}
             className="block w-full"
             loading={index === 0 ? "eager" : "lazy"}

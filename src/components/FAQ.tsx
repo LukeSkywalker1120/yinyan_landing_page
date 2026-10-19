@@ -3,8 +3,8 @@ import { AnimatePresence, motion } from "motion/react";
 import { SectionHeading } from "./ui";
 const items = [
   [
-    "轻跃｜小青蛙 AI 是什么？适合哪些团队使用？",
-    "轻跃｜小青蛙 AI 是一站式 AI 多媒体创意平台，适合品牌团队、内容团队、增长团队与电商团队使用。",
+    "链星云 | 影焰AI 是什么？适合哪些团队使用？",
+    "链星云 | 影焰AI 是一站式 AI 多媒体创意平台，适合品牌团队、内容团队、增长团队与电商团队使用。",
   ],
   [
     "真的可以只拍一张照片就生成多种内容吗？",

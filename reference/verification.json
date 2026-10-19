@@ -1,18 +1,18 @@
 {
-  "baseUrl": "http://127.0.0.1:5174",
+  "brand": "链星云 | 影焰AI",
   "pageErrors": [],
   "checks": [
-    "desktop and mobile layouts",
-    "workflow tabs",
-    "FAQ accordion",
-    "all image/video gallery categories",
-    "stacked image viewer and Escape",
+    "branding on all four routes",
+    "desktop and mobile logos and favicon",
+    "login destinations",
+    "no retired brand in markup or network requests",
+    "gallery categories and local previews",
     "inline video playback and pause",
-    "customer and partner dialogs",
-    "apparel comparison keyboard control",
-    "download route with macOS recommendation",
+    "workflow and FAQ",
+    "customer/mobile/partner dialogs",
+    "apparel comparison",
+    "download placeholders",
     "API local draft",
-    "mobile navigation",
-    "no horizontal overflow at 390/768/1024/1280/1440px"
+    "no overflow at 390/768/1024/1280/1440px"
   ]
 }

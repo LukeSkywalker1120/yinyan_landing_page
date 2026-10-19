@@ -1,5 +1,7 @@
 import { Dialog } from "./ui";
 import { PartnerContent } from "./PartnerContent";
+import { BRAND_LOGO, BRAND_NAME, LOGIN_URL } from "../config/brand";
+
 export function ContactModal({
   kind,
   onClose,
@@ -22,23 +24,22 @@ export function ContactModal({
         <div className="qr-heading">
           <div>
             <h3>{title}</h3>
-            <p>
-              {kind === "service"
-                ? "扫码添加客服，获取专属支持"
-                : "微信扫码，打开小程序"}
-            </p>
+            <p>{BRAND_NAME}</p>
           </div>
           <button onClick={onClose} aria-label="关闭弹窗">
             ×
           </button>
         </div>
-        <div className="qr-image">
-          <img
-            src={
-              kind === "service" ? "/images/service.jpg" : "/images/mini-qr.jpg"
-            }
-            alt={kind === "service" ? "客服二维码" : "小程序二维码"}
-          />
+        <div className="brand-contact-panel">
+          <img src={BRAND_LOGO} alt={BRAND_NAME} width={112} height={112} />
+          <p>
+            {kind === "service"
+              ? "客服联系方式待配置"
+              : "手机浏览器可直接访问影焰AI"}
+          </p>
+          <a href={LOGIN_URL} className="draft-email-link">
+            进入影焰AI
+          </a>
         </div>
       </div>
     </Dialog>

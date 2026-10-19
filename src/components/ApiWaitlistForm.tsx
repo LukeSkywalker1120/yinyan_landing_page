@@ -1,5 +1,6 @@
 import { useState } from "react";
 export function ApiWaitlistForm() {
+  const [copied, setCopied] = useState(false);
   const [draft, setDraft] = useState<{
     email: string;
     scenario: string;
@@ -9,14 +10,31 @@ export function ApiWaitlistForm() {
       <div className="rounded-2xl bg-[#f7f7f8] p-8 text-center ring-1 ring-black/6">
         <p className="text-lg font-semibold text-ink">登记内容已保存</p>
         <p className="mt-2 text-sm leading-relaxed text-muted">
-          内容保存在当前浏览器。发送邮件后即可完成咨询。
+          内容保存在当前浏览器，可复制留存。
         </p>
-        <a
+        <button
+          type="button"
           className="draft-email-link"
-          href={`mailto:hello@ifrog.ai?subject=Open%20API%20waitlist&body=${encodeURIComponent(`Email: ${draft.email}\n\n${draft.scenario}`)}`}
+          onClick={async () => {
+            try {
+              await navigator.clipboard.writeText(
+                `联系邮箱：${draft.email}\n使用场景：${draft.scenario}`,
+              );
+              setCopied(true);
+            } catch {
+              setCopied(false);
+            }
+          }}
         >
-          打开邮件草稿
-        </a>
+          {copied ? "已复制" : "复制登记内容"}
+        </button>
+        <textarea
+          readOnly
+          aria-label="登记内容"
+          className="mt-5 w-full rounded-xl border border-black/12 bg-white px-4 py-3 text-sm"
+          value={`联系邮箱：${draft.email}\n使用场景：${draft.scenario}`}
+        />
+
         <button className="draft-edit" onClick={() => setDraft(null)}>
           重新填写
         </button>
@@ -34,7 +52,7 @@ export function ApiWaitlistForm() {
         };
         try {
           localStorage.setItem(
-            "ifrog-api-enquiry-draft",
+            "yinyan-api-enquiry-draft",
             JSON.stringify(value),
           );
         } catch {

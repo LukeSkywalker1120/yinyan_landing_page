@@ -1,41 +1,92 @@
 from pathlib import Path
 from playwright.sync_api import sync_playwright
-import json, os
-P=Path(__file__).resolve().parents[1];R=P/'reference';R.mkdir(exist_ok=True)
-BASE=os.environ.get('BASE_URL','http://127.0.0.1:5173').rstrip('/')
+import json, os, re
+
+P = Path(__file__).resolve().parents[1]
+R = P / 'reference'
+R.mkdir(exist_ok=True)
+BASE = os.environ.get('BASE_URL', 'http://127.0.0.1:5173').rstrip('/')
+BRAND = '链星云 | 影焰AI'
+LOGIN = 'https://yy.7w2.cn/login'
+LEGACY = re.compile(r'\u8f7b\u8dc3|\u5c0f\u9752\u86d9|\x69\x66\x72\x6f\x67', re.I)
+gallery = json.loads((P / 'src/data/gallery.json').read_text())
+
 with sync_playwright() as p:
- browser=p.chromium.launch(headless=True,executable_path=os.environ.get('CHROME_BIN','/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'))
- page=browser.new_page(viewport={'width':1440,'height':1000},device_scale_factor=1,locale='zh-CN')
- errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
- page.goto(BASE+'/',wait_until='networkidle');page.wait_for_timeout(1000)
- page.evaluate('document.querySelectorAll("video").forEach(v=>{v.pause();v.currentTime=0})');page.wait_for_timeout(300)
- page.screenshot(path=str(R/'local-desktop.png'))
- print('TOP',page.locator('h1').inner_text(),page.evaluate('({width:innerWidth,scrollWidth:document.documentElement.scrollWidth,height:document.body.scrollHeight})'),flush=True)
- for y in range(0,int(page.evaluate('document.body.scrollHeight')),700):page.evaluate('(y)=>window.scrollTo(0,y)',y);page.wait_for_timeout(200)
- page.wait_for_timeout(800);page.screenshot(path=str(R/'local-full.png'),full_page=True)
- print('BROKEN',page.locator('img').evaluate_all('(els)=>els.filter(e=>e.complete&&e.naturalWidth===0).map(e=>e.src)'),flush=True)
- page.get_by_role('tab',name='详情页组图',exact=True).click();page.get_by_role('heading',name='围绕卖点组织整套详情内容').wait_for()
- page.get_by_role('tab',name='营销短视频',exact=True).click();page.get_by_role('heading',name='把静态商品素材转成动态内容').wait_for()
- page.get_by_role('button',name='真的可以只拍一张照片就生成多种内容吗？').click();assert page.get_by_text('可以。系统会基于一张素材生成不同风格的图片、视频与文案，并支持继续迭代优化。').is_visible()
- page.get_by_role('tab',name='详情图',exact=True).click();assert page.locator('#showcase-panel img').count()==16
- page.get_by_role('tab',name='人像摄影',exact=True).click();assert page.locator('#showcase-panel img').count()==14
- page.get_by_role('tab',name='视频',exact=True).click();assert page.locator('#showcase-panel video').count()==14
- page.locator('#showcase-panel button').first.click();page.wait_for_function('document.querySelector("#showcase-panel video").currentTime > 0',timeout=20000);page.locator('#showcase-panel button').first.click();assert page.locator('#showcase-panel video').first.evaluate('(v)=>v.paused')
- page.get_by_role('tab',name='口播视频',exact=True).click();assert page.locator('#showcase-panel video').count()==9
- page.get_by_role('tab',name='服装视频',exact=True).click();assert page.locator('#showcase-panel video').count()==16
- page.get_by_role('tab',name='图片',exact=True).click();page.get_by_role('tab',name='主图',exact=True).click();page.locator('#showcase-panel button').first.click();page.get_by_role('dialog').wait_for();assert page.locator('.case-scroll img').count()==5;page.locator('.case-scroll img').first.wait_for();page.wait_for_function('document.querySelector(".case-scroll img").naturalWidth > 0');page.screenshot(path=str(R/'local-gallery-modal.png'));page.keyboard.press('Escape');assert page.get_by_role('dialog').count()==0
- page.get_by_role('button',name='立即联系客服',exact=True).click();assert page.get_by_role('dialog').is_visible();page.keyboard.press('Escape')
- page.get_by_role('button',name='代理加盟',exact=True).click();page.get_by_role('dialog').wait_for();page.screenshot(path=str(R/'local-partner.png'));page.get_by_role('button',name='立即咨询合作',exact=True).click();assert page.get_by_role('dialog',name='联系客服').is_visible();page.keyboard.press('Escape')
- page.goto(BASE+'/apparel/',wait_until='networkidle');page.wait_for_timeout(700);page.screenshot(path=str(R/'local-apparel.png'));slider=page.get_by_role('slider');slider.focus();slider.press('ArrowRight');assert slider.get_attribute('aria-valuenow')=='55'
- page.goto(BASE+'/download/',wait_until='networkidle');assert page.get_by_role('heading',name='把批量出图搬到本地').is_visible();assert page.get_by_text('Universal · 版本 1.0.0 · 大小 184.42 MB',exact=True).is_visible();page.screenshot(path=str(R/'local-download.png'))
- page.goto(BASE+'/open-api/',wait_until='networkidle');page.get_by_label('联系邮箱').fill('test@example.com');page.get_by_label('使用场景').fill('本地界面验证');page.get_by_role('button',name='提交登记').click();assert page.get_by_text('登记内容已保存',exact=True).is_visible();assert page.evaluate('Boolean(localStorage.getItem("ifrog-api-enquiry-draft"))')
- page.screenshot(path=str(R/'local-api.png'))
- page.set_viewport_size({'width':390,'height':844});page.goto(BASE+'/',wait_until='networkidle');page.wait_for_timeout(500);page.evaluate('document.querySelectorAll("video").forEach(v=>{v.pause();v.currentTime=0})');page.screenshot(path=str(R/'local-mobile.png'))
- assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
- page.get_by_role('button',name='切换菜单',exact=True).click();assert page.get_by_role('navigation',name='移动端导航').is_visible();page.screenshot(path=str(R/'local-mobile-menu.png'))
- for width in [768,1024,1280]:
-  page.set_viewport_size({'width':width,'height':900});page.wait_for_timeout(250);assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'),f'overflow at {width}'
- (R/'verification.json').write_text(json.dumps({'baseUrl':BASE,'pageErrors':errors,'checks':['desktop and mobile layouts','workflow tabs','FAQ accordion','all image/video gallery categories','stacked image viewer and Escape','inline video playback and pause','customer and partner dialogs','apparel comparison keyboard control','download route with macOS recommendation','API local draft','mobile navigation','no horizontal overflow at 390/768/1024/1280/1440px']},ensure_ascii=False,indent=2))
- print('PAGE ERRORS',errors,flush=True)
- assert not errors
- browser.close()
+    browser = p.chromium.launch(headless=True, executable_path=os.environ.get('CHROME_BIN', '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'))
+    page = browser.new_page(viewport={'width': 1440, 'height': 1000}, locale='zh-CN')
+    errors, requests = [], []
+    page.on('pageerror', lambda e: errors.append(str(e)))
+    page.on('request', lambda r: requests.append(r.url))
+
+    def clean():
+        assert not LEGACY.search(page.content()), 'Unexpected retired branding in page markup'
+        assert page.locator('header a').filter(has_text='立即体验').first.get_attribute('href') == LOGIN
+        assert BRAND in page.title()
+        assert page.evaluate('document.documentElement.scrollWidth <= innerWidth'), 'Horizontal overflow'
+
+    def shot(name, full=False):
+        page.wait_for_timeout(350)
+        page.screenshot(path=str(R / name), full_page=full, animations='disabled')
+
+    for route, name in [('/', 'desktop'), ('/apparel/', 'apparel'), ('/download/', 'download'), ('/open-api/', 'api')]:
+        page.goto(BASE + route, wait_until='networkidle')
+        clean()
+        assert page.locator('header img').get_attribute('src') == '/images/brand/yinyan-logo.png'
+        assert page.locator('footer').inner_text().find(BRAND) >= 0
+        shot(f'local-{name}.png')
+        if route == '/apparel/':
+            slider = page.get_by_role('slider')
+            slider.focus(); slider.press('ArrowRight')
+            assert slider.get_attribute('aria-valuenow') == '55'
+        if route == '/download/':
+            assert page.get_by_role('button', name='待配置').count() >= 1
+            assert page.locator('a[href$=".zip"]').count() == 0
+        if route == '/open-api/':
+            page.get_by_label('联系邮箱').fill('test@example.com')
+            page.get_by_label('使用场景', exact=True).fill('品牌替换验证')
+            page.get_by_role('button', name='提交登记').click()
+            assert page.get_by_text('登记内容已保存', exact=True).is_visible()
+            assert page.evaluate('Boolean(localStorage.getItem("yinyan-api-enquiry-draft"))')
+            clean()
+
+    page.goto(BASE + '/', wait_until='networkidle')
+    page.get_by_role('button', name=BRAND + ' 是什么？适合哪些团队使用？').click()
+    clean()
+    for tab in ['详情页组图', '营销短视频', '商品主图']:
+        page.get_by_role('tab', name=tab, exact=True).click(); clean()
+    for mode, groups in [('图片', [('主图','main'), ('详情图','detail'), ('人像摄影','portrait')]), ('视频', [('产品TVC','tvc'), ('口播视频','talking'), ('服装视频','apparel')])]:
+        page.get_by_role('tab', name=mode, exact=True).click()
+        for title, group in groups:
+            page.get_by_role('tab', name=title, exact=True).click()
+            selector = '#showcase-panel img' if mode == '图片' else '#showcase-panel video'
+            assert page.locator(selector).count() == len(gallery[group]); clean()
+        if mode == '视频':
+            page.locator('#showcase-panel button').first.click()
+            page.wait_for_function('document.querySelector("#showcase-panel video").currentTime > 0')
+            page.locator('#showcase-panel button').first.click()
+            assert page.locator('#showcase-panel video').first.evaluate('(v)=>v.paused')
+    page.get_by_role('tab', name='图片', exact=True).click()
+    page.locator('#showcase-panel button').first.click()
+    page.wait_for_function('document.querySelector(".case-scroll img").naturalWidth > 0')
+    clean(); shot('local-gallery-modal.png'); page.keyboard.press('Escape')
+    page.get_by_role('button', name='立即联系客服', exact=True).click()
+    assert page.get_by_text('客服联系方式待配置', exact=True).is_visible()
+    clean(); shot('local-contact.png'); page.keyboard.press('Escape')
+    page.get_by_role('button', name='移动端', exact=True).click()
+    clean(); page.keyboard.press('Escape')
+    page.get_by_role('button', name='代理加盟', exact=True).click()
+    clean(); shot('local-partner.png'); page.keyboard.press('Escape')
+    for width in [390, 768, 1024, 1280, 1440]:
+        page.set_viewport_size({'width': width, 'height': 844})
+        page.goto(BASE + '/', wait_until='networkidle'); clean()
+        if width == 390:
+            shot('local-mobile.png')
+            page.get_by_role('button', name='切换菜单', exact=True).click()
+            page.get_by_role('navigation', name='移动端导航').wait_for()
+            clean(); shot('local-mobile-menu.png'); page.keyboard.press('Escape')
+    assert not any(LEGACY.search(url) for url in requests)
+    assert not errors, errors
+    result = {'brand': BRAND, 'pageErrors': errors, 'checks': ['branding on all four routes', 'desktop and mobile logos and favicon', 'login destinations', 'no retired brand in markup or network requests', 'gallery categories and local previews', 'inline video playback and pause', 'workflow and FAQ', 'customer/mobile/partner dialogs', 'apparel comparison', 'download placeholders', 'API local draft', 'no overflow at 390/768/1024/1280/1440px']}
+    (R / 'verification.json').write_text(json.dumps(result, ensure_ascii=False, indent=2))
+    print(json.dumps(result, ensure_ascii=False, indent=2), flush=True)
+    browser.close()

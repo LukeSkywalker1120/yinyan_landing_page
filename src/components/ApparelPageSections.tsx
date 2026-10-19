@@ -20,7 +20,7 @@ export function ApparelPageSections() {
               </p>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row">
                 <a
-                  href="https://account.ifrogai.com"
+                  href="https://yy.7w2.cn/login"
                   className="inline-flex min-w-[12.5rem] items-center justify-center rounded-full bg-ink px-8 py-4 text-base font-semibold text-white shadow-card transition hover:-translate-y-0.5 hover:bg-black focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black/30 focus-visible:ring-offset-2"
                 >
                   {"免费试跑一件"}
@@ -634,7 +634,7 @@ export function ApparelPageSections() {
           </div>
           <div className="mt-9 flex justify-center">
             <a
-              href="https://account.ifrogai.com"
+              href="https://yy.7w2.cn/login"
               className="inline-flex min-w-[12.5rem] items-center justify-center rounded-full bg-ink px-8 py-4 text-base font-semibold text-white shadow-card transition hover:-translate-y-0.5 hover:bg-black focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black/30 focus-visible:ring-offset-2"
             >
               {"免费试跑一件"}

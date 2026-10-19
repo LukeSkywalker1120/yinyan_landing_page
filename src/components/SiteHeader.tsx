@@ -1,3 +1,4 @@
+import { BRAND_NAME, BRAND_LOGO, LOGIN_URL } from "../config/brand";
 // Adapted from the public reference markup; editable React components.
 import { useEffect, useRef, useState } from "react";
 import { useScroll, useMotionValueEvent } from "motion/react";
@@ -38,17 +39,17 @@ export function SiteHeader({ onPartner }: { onPartner: () => void }) {
             <div className="flex items-center justify-between py-3.5 md:py-4">
               <div className="flex items-center gap-2">
                 <img
-                  alt="轻跃｜小青蛙 AI"
+                  alt={BRAND_NAME}
                   loading="lazy"
                   width={48}
                   height={48}
                   decoding="async"
                   className="h-11 w-11 object-contain md:h-12 md:w-12"
                   style={{ color: "transparent" }}
-                  src="/images/logo_1-removebg-preview.png"
+                  src={BRAND_LOGO}
                 />
                 <span className="text-[1.0625rem] font-semibold tracking-tight text-ink md:text-lg">
-                  {"轻跃｜小青蛙 AI"}
+                  {BRAND_NAME}
                 </span>
               </div>
               <nav
@@ -133,7 +134,7 @@ export function SiteHeader({ onPartner }: { onPartner: () => void }) {
                   )}
                 </div>
                 <a
-                  href="https://yy.7w2.cn/login"
+                  href={LOGIN_URL}
                   className="inline-flex items-center justify-center rounded-xl px-5 py-2.5 text-sm font-semibold transition-all duration-300 bg-ink text-white shadow-card hover:-translate-y-0.5 hover:bg-black rounded-lg px-5 py-2.5 text-sm"
                 >
                   {"立即体验"}
