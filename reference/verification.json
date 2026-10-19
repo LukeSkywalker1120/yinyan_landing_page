@@ -1,0 +1,18 @@
+{
+  "baseUrl": "http://127.0.0.1:5174",
+  "pageErrors": [],
+  "checks": [
+    "desktop and mobile layouts",
+    "workflow tabs",
+    "FAQ accordion",
+    "all image/video gallery categories",
+    "stacked image viewer and Escape",
+    "inline video playback and pause",
+    "customer and partner dialogs",
+    "apparel comparison keyboard control",
+    "download route with macOS recommendation",
+    "API local draft",
+    "mobile navigation",
+    "no horizontal overflow at 390/768/1024/1280/1440px"
+  ]
+}

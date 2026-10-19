@@ -1,0 +1,944 @@
+{
+  "main": [
+    {
+      "id": "2111396774696767488",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-4d08d611-0c3b-411a-8ab8-f0d32570c621.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-2cc60f62-3ef5-4bfb-a69b-12f5a788f44f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-5efe206e-7b3c-4e0c-8676-e3a50518e700.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-e9108ea6-ab6b-4d5a-bf48-7be1bd38c1ac.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-ee151e21-6e10-4ebd-89c9-4a9106c289a4.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-4d08d611-0c3b-411a-8ab8-f0d32570c621.png",
+      "thumbnail": "/gallery/main-00.webp"
+    },
+    {
+      "id": "2097197313661652992",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-2a2282cd-5e8b-4cec-970d-27033c968bdd.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-39b06e72-31bc-4bba-8bf7-5e8071fa5565.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-1867f5be-ccff-45e8-9302-59cae3a11b42.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-05054fd1-9fad-4c93-886a-29165c949265.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-0371e1af-65d4-4e3b-b352-a61073dea0c4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-4ab490df-c4db-4c52-bb20-52b2e0359a03.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-2a2282cd-5e8b-4cec-970d-27033c968bdd.png",
+      "thumbnail": "/gallery/main-01.webp"
+    },
+    {
+      "id": "2096937429426819072",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-4c504294-bb00-437a-8cde-e99efb69a8e3.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-65aa350b-244a-4179-8e62-cc114893caa8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-c1f6c6a5-6559-4661-b318-1f977d1e5d57.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-4c504294-bb00-437a-8cde-e99efb69a8e3.png",
+      "thumbnail": "/gallery/main-02.webp"
+    },
+    {
+      "id": "2096146638404112384",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/gs/gi2/ifrogai-ddc9ddc9-62cb-4f88-a981-2d35a4a69a54.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/gs/gi2/ifrogai-0c0a7887-678e-4241-9c26-c0b8671c2cb1.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/dm/gi2/ifrogai-c4cfe43c-aff0-4d2e-aca4-0c3586fcae59.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/dm/gi2/ifrogai-77745fad-678a-4ba7-94a5-ea6a45e12747.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/dm/gi2/ifrogai-4a5eaa8c-dd75-4ee4-8cae-8406f4b406e7.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/gs/gi2/ifrogai-ddc9ddc9-62cb-4f88-a981-2d35a4a69a54.png",
+      "thumbnail": "/gallery/main-03.webp"
+    },
+    {
+      "id": "2095433737900969984",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/gs/gi2/ifrogai-6f522994-ee0a-4ac5-b5de-33a60634d336.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/gs/gi2/ifrogai-d5cc4464-0633-41b2-97f9-8db6b2eb3c82.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/dm/gi2/ifrogai-14821bba-b2b1-4e4a-8cec-c28b0fc3654a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/gs/gi2/ifrogai-a03d1544-77cb-451e-92cd-c441e8cedf93.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/yw/g31fip/ifrogai-image-0b9ffcd2-2858-46d4-81f1-143a54a76501.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/gs/gi2/ifrogai-6f522994-ee0a-4ac5-b5de-33a60634d336.png",
+      "thumbnail": "/gallery/main-04.webp"
+    },
+    {
+      "id": "2094997918409084928",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/gs/gi2/ifrogai-5cf57d42-32fe-4d1c-9be1-3342f2819e03.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/gs/gi2/ifrogai-d90f695e-87d2-4c49-b234-9d1bf7a0101a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/dm/gi2/ifrogai-842f4c85-1e1d-49c7-9ea5-1b45a734286b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/dm/gi2/ifrogai-79ff5145-60c1-40bd-8aa8-f63c6aeab6b0.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/dm/gi2/ifrogai-2d00a243-c85c-443f-840f-be24f8b53b67.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/gs/gi2/ifrogai-5cf57d42-32fe-4d1c-9be1-3342f2819e03.png",
+      "thumbnail": "/gallery/main-05.webp"
+    },
+    {
+      "id": "2094804661016252416",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094798837858488320/2026-09/gs/gi2/ifrogai-5083500e-8501-41d1-a412-cc27c9e30ff3.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094798837858488320/2026-09/gs/gi2/ifrogai-c7cc5b08-db7f-4c0e-a7f9-44b487566bab.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094798837858488320/2026-09/dm/gi2/ifrogai-67c0e810-06ce-4db4-8014-9999acd5ee7f.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094798837858488320/2026-09/gs/gi2/ifrogai-5083500e-8501-41d1-a412-cc27c9e30ff3.png",
+      "thumbnail": "/gallery/main-06.webp"
+    },
+    {
+      "id": "2094774360311386112",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094770956176510976/2026-09/gs/gi2/ifrogai-d23d4ecf-95b8-4c1a-bb89-8e53de01d5ed.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094770956176510976/2026-09/dm/gi2/ifrogai-871c1875-5fd1-4710-8088-c7417eb3f917.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094770956176510976/2026-09/dm/gi2/ifrogai-d05a9d94-8b72-4be7-a732-5d24f68cb45f.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094770956176510976/2026-09/gs/gi2/ifrogai-d23d4ecf-95b8-4c1a-bb89-8e53de01d5ed.png",
+      "thumbnail": "/gallery/main-07.webp"
+    },
+    {
+      "id": "2094637183564828672",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094628597715488768/2026-09/gs/gi2/ifrogai-a7e214eb-de55-4c26-9239-a898ebda4034.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094628597715488768/2026-09/gs/gi2/ifrogai-a5973e04-299d-4403-86f0-659143d44001.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094628597715488768/2026-09/dm/gi2/ifrogai-860f2dba-978d-4db6-acd1-bcf36fda43f3.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094628597715488768/2026-09/gs/gi2/ifrogai-a7e214eb-de55-4c26-9239-a898ebda4034.png",
+      "thumbnail": "/gallery/main-08.webp"
+    },
+    {
+      "id": "2094247636142182400",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/gs/gi2/ifrogai-2286ff4a-3edd-4fe5-b3f9-56e786c62c6c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/gs/gi2/ifrogai-3df907d8-a455-48b4-bdde-0379462e57e6.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/gs/gi2/ifrogai-1e3867e7-b985-4d2b-b492-347f2ba7f6f8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/dm/gi2/ifrogai-49dc9109-156a-48c8-81f3-c320bf8d0fbc.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/dm/gi2/ifrogai-bb506011-96c3-4b2b-834a-bd504a8524ba.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/dm/gi2/ifrogai-ca540541-8977-416e-87e6-eda1b0de8a62.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/gs/gi2/ifrogai-2286ff4a-3edd-4fe5-b3f9-56e786c62c6c.png",
+      "thumbnail": "/gallery/main-09.webp"
+    },
+    {
+      "id": "2093263852118790144",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093248121280974848/2026-08/gs/gi2/ifrogai-3df7db03-1546-4be6-b28f-261160f5ef93.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093248121280974848/2026-08/gs/gi2/ifrogai-6c813176-9e2f-4733-9101-aa6fb6e428dc.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093248121280974848/2026-08/dm/gi2/ifrogai-c9453ec3-63b0-489f-bfd8-e9af49d03b4d.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093248121280974848/2026-08/gs/gi2/ifrogai-3df7db03-1546-4be6-b28f-261160f5ef93.png",
+      "thumbnail": "/gallery/main-10.webp"
+    },
+    {
+      "id": "2093218897404940288",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093211073874546688/2026-08/dm/gi2/ifrogai-9360bd72-c107-401b-b456-987624fa3b40.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093211073874546688/2026-08/sg/g31fi/ifrogai-2224b1f8-d790-4771-95a5-d3d5d9a6c8ed.jpg"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093211073874546688/2026-08/dm/gi2/ifrogai-9360bd72-c107-401b-b456-987624fa3b40.png",
+      "thumbnail": "/gallery/main-11.webp"
+    },
+    {
+      "id": "2092967721363099648",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092333102187991040/2026-08/gs/gi2/ifrogai-cb9e5577-bce4-475c-b586-4aa7c72a32d3.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092333102187991040/2026-08/gs/gi2/ifrogai-8770799d-9d99-43ed-9388-db026b877474.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092333102187991040/2026-08/gs/gi2/ifrogai-44ffc69b-7a24-49cc-beed-a763888f24ee.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092333102187991040/2026-08/gs/gi2/ifrogai-cb9e5577-bce4-475c-b586-4aa7c72a32d3.png",
+      "thumbnail": "/gallery/main-12.webp"
+    },
+    {
+      "id": "2090750345343193088",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090744943721369600/2026-08/gs/gi2/ifrogai-c0b2c750-6124-4e97-88d4-dc0f23ee9163.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090744943721369600/2026-08/gs/gi2/ifrogai-530322f7-ad64-44c0-8bd0-21e2a0687b67.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090744943721369600/2026-08/dm/gi2/ifrogai-2eb3a08d-71a5-4aa7-9690-9eced1731dd0.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090744943721369600/2026-08/gs/gi2/ifrogai-c0b2c750-6124-4e97-88d4-dc0f23ee9163.png",
+      "thumbnail": "/gallery/main-13.webp"
+    },
+    {
+      "id": "2090645467560202240",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090641833418084352/2026-08/dm/gi2/ifrogai-8993a2e9-78b3-4751-b331-71f819c9c34a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090641833418084352/2026-08/dm/gi2/ifrogai-9d481851-7ace-4d68-af5a-0c877eab768f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090641833418084352/2026-08/dm/gi2/ifrogai-92566ec3-99ca-452c-87be-675e2003ed27.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090641833418084352/2026-08/dm/gi2/ifrogai-8993a2e9-78b3-4751-b331-71f819c9c34a.png",
+      "thumbnail": "/gallery/main-14.webp"
+    },
+    {
+      "id": "2090027001870340096",
+      "title": "生成电商主图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-f9ebe6ca-d60c-470d-86b5-a331d0d7f7aa.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-17ae2f39-d3ff-4dbd-acfe-85d150de2d85.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-08c33c62-bc3a-425b-a750-186b71eec9c0.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-012d8999-5255-42a9-9f9e-353420a8417c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/dm/gi2/ifrogai-05c68396-1165-493e-9a11-c174ff42e007.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-f9ebe6ca-d60c-470d-86b5-a331d0d7f7aa.png",
+      "thumbnail": "/gallery/main-15.webp"
+    }
+  ],
+  "detail": [
+    {
+      "id": "2095497053063139328",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/gs/gi2/ifrogai-9cafbe5e-c471-4acc-a25d-2c02b54b29da.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/gs/gi2/ifrogai-0e2bdbc0-2c80-4485-b9e2-deb91d2b47ca.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/gs/gi2/ifrogai-5e321cc2-5fc8-4d8b-9a5b-189d2d8ba055.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/dm/gi2/ifrogai-363e5c4e-b20e-436b-9089-cd50bc74005b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/dm/gi2/ifrogai-db7c8c71-78c7-429d-a51e-710d75f368d4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/dm/gi2/ifrogai-47952a5f-4ed4-4d46-a717-23c8641880c7.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/gs/gi2/ifrogai-9cafbe5e-c471-4acc-a25d-2c02b54b29da.png",
+      "thumbnail": "/gallery/detail-00.webp"
+    },
+    {
+      "id": "2095114528209817600",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-bb93a994-5ca3-49a5-b6d5-5d150887197a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-8310ea04-0d51-4326-9908-bf8e16ca09e7.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-0b888f4c-425a-436d-ade8-179ad5e60b98.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-86878c9b-4c4a-461d-b9ad-c4c8bacf7c1e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-014afda0-f2ca-4423-ad09-fe72caa3a368.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-bb93a994-5ca3-49a5-b6d5-5d150887197a.png",
+      "thumbnail": "/gallery/detail-01.webp"
+    },
+    {
+      "id": "2094799683933491200",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/gs/gi2/ifrogai-e78760f8-6dd5-4846-ab92-35c29bb44931.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/gs/gi2/ifrogai-b5011f91-57e7-4dd8-a824-e5eb1d612388.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/gs/gi2/ifrogai-552ba964-425c-4043-b87f-006e663cb506.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/dm/gi2/ifrogai-0465aba6-4bb7-40a0-aa15-593a4e5f4b1f.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/gs/gi2/ifrogai-e78760f8-6dd5-4846-ab92-35c29bb44931.png",
+      "thumbnail": "/gallery/detail-02.webp"
+    },
+    {
+      "id": "2094686846540107776",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/gs/gi2/ifrogai-5242e527-bd76-4cfd-9cec-e10c7571d854.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/gs/gi2/ifrogai-0e31e23b-498d-473e-9b53-6b1cb99af700.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/gs/gi2/ifrogai-516900b0-4946-4f87-a5a8-06c351c24c4c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/dm/gi2/ifrogai-e00b0754-6c18-41ee-830b-5c17d00833be.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/dm/gi2/ifrogai-746337c1-6ed9-45ed-86bc-8c742a7f7d9d.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/gs/gi2/ifrogai-5242e527-bd76-4cfd-9cec-e10c7571d854.png",
+      "thumbnail": "/gallery/detail-03.webp"
+    },
+    {
+      "id": "2094678754783973376",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/gs/gi2/ifrogai-b0894105-8201-4776-a423-f8ec3b176235.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/gs/gi2/ifrogai-28e4ae96-30e1-4d79-9874-3f87f444adb7.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/dm/gi2/ifrogai-43201a88-39ad-422b-988c-94cf73bb1d15.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/dm/g31fip/ifrogai-ab9f9fa6-2383-41a8-8580-9d5c3ea51060.jpg",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/dm/gi2/ifrogai-1d1b1e36-d1f6-401a-9aab-6b2f0587c1b1.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/gs/gi2/ifrogai-b0894105-8201-4776-a423-f8ec3b176235.png",
+      "thumbnail": "/gallery/detail-04.webp"
+    },
+    {
+      "id": "2093608215747284992",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/gs/gi2/ifrogai-a31ad757-5b67-4355-9f0a-3843fb26eb3b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/gs/gi2/ifrogai-ae6adcaf-c977-4771-b71e-3d259c68b9fe.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/gs/gi2/ifrogai-7ed4da42-90e5-409d-833d-13819cde1312.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/dm/gi2/ifrogai-deecdc94-315d-4262-85b1-bd7113f69e6d.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/dm/gi2/ifrogai-9b7d837d-2113-41a4-bed6-f21218358f0f.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/gs/gi2/ifrogai-a31ad757-5b67-4355-9f0a-3843fb26eb3b.png",
+      "thumbnail": "/gallery/detail-05.webp"
+    },
+    {
+      "id": "2091128119828467712",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/gs/gi2/ifrogai-fb09a102-5f5a-4be0-b6ea-0a9da616656d.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/gs/gi2/ifrogai-5661ecab-a0a2-423f-964a-6977811db8f4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/gs/gi2/ifrogai-e7676a37-5b05-4b59-9287-ee5cd4544c6b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/sg/g31fi/ifrogai-268916a7-d4c9-4d13-a6e8-4d2bfad39813.jpg",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/dm/gi2/ifrogai-2b012ab0-6693-4515-bf11-fbae98a89021.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/gs/gi2/ifrogai-fb09a102-5f5a-4be0-b6ea-0a9da616656d.png",
+      "thumbnail": "/gallery/detail-06.webp"
+    },
+    {
+      "id": "2089349556439666688",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-936f02d6-f6ea-4b96-96fb-90016bf36c20.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-a8d74ffb-dcf5-4049-8fc9-f4a0ab6d56d2.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-f87fd5d7-fbd4-498c-a246-b577f01a1d4a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-85eb0195-f651-40f0-9b88-8674c3613e66.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-a99ee5f8-fb8f-4135-8256-e638d8dcd44c.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-936f02d6-f6ea-4b96-96fb-90016bf36c20.png",
+      "thumbnail": "/gallery/detail-07.webp"
+    },
+    {
+      "id": "2089349310980608000",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-92da642a-dfd5-4de8-9187-2649cac2a92f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-21f36952-9c46-4815-9c7a-2e7b0d273723.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-92d115dc-e4e4-4815-a424-557b5208dcb5.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-27f8186c-f41a-419d-9187-e18768ab7892.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-8e57e4d4-738c-492e-b7c9-8cc8e43e5617.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-92da642a-dfd5-4de8-9187-2649cac2a92f.png",
+      "thumbnail": "/gallery/detail-08.webp"
+    },
+    {
+      "id": "2089349247696949248",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-5ed072c3-762a-4c7b-9389-20d9985265ca.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-20137572-65fe-4640-bfa5-37e0d2794a66.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-b0ff1bef-dd10-47c8-83d9-e00ee388f36b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-404c28589bc349518ec68a6e4a99a68f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-1edaf55f91ff43ed9859e699438e27d3.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-5ed072c3-762a-4c7b-9389-20d9985265ca.png",
+      "thumbnail": "/gallery/detail-09.webp"
+    },
+    {
+      "id": "2089349184136466432",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-2aa91eee-9117-43f7-ac10-ce6a80315bed.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-91116024-ae25-4da5-8777-5df4c798afd6.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-e564c943-e51d-4e8c-ba86-2cae67c41aed.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-59afc047-8639-4170-b606-acf0c5815042.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-4ddca319-c888-4f19-b781-26de044f5f83.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-2aa91eee-9117-43f7-ac10-ce6a80315bed.png",
+      "thumbnail": "/gallery/detail-10.webp"
+    },
+    {
+      "id": "2089349094856511488",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-fbc188de-ab8d-4f9d-8dae-5d0d8db4cf3d.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-650fc3de-709b-472b-bd0b-d742ea7eb3c9.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-4d151543-be4c-4a1d-8237-5a868dc5cab8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-0f43d56badcd4105bb9a2a9ff9af6f0d.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-b4641e91b0db42c6a1c9e4f150661d5d.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-fbc188de-ab8d-4f9d-8dae-5d0d8db4cf3d.png",
+      "thumbnail": "/gallery/detail-11.webp"
+    },
+    {
+      "id": "2089349059200733184",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-08beeb75-8e07-42ef-a8cd-f6a80e873ac1.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-956fcf7d-bd2c-405e-ab85-1af4a55e396e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-8676c366-cdf3-4d50-afbe-45c441944f1e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-7149a871-f9bb-4555-a49c-bd96108e2623.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-b66cdcb9b5f347e6a9797b021604ac98.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-08beeb75-8e07-42ef-a8cd-f6a80e873ac1.png",
+      "thumbnail": "/gallery/detail-12.webp"
+    },
+    {
+      "id": "2089349026334167040",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-15247ef4-09c8-469b-b3bd-73186fda9681.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-3391cf55-1a4b-42fc-a73b-55ddfe294af5.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-fa30798a-ae59-4096-9cf5-70c0ab4666ff.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-12eac34c-b259-4629-ad81-e21fc882afa4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-808f7d77719140bca9d0a1e2757e4031.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-15247ef4-09c8-469b-b3bd-73186fda9681.png",
+      "thumbnail": "/gallery/detail-13.webp"
+    },
+    {
+      "id": "2089348999419318272",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-f901de31-f3f1-40c7-a54f-adb6d1d82abe.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-4e90711f-701b-4dca-b8e0-a0ea1201a6c2.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-0c47b22f-342d-4561-976c-e3e54f2aa550.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-b982151b-d53f-4ccd-a1b2-cf77573948ec.png",
+        "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-a91b000e-86ad-4294-83f9-a7ddf8d710e1.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-f901de31-f3f1-40c7-a54f-adb6d1d82abe.png",
+      "thumbnail": "/gallery/detail-14.webp"
+    },
+    {
+      "id": "2089348925968666624",
+      "title": "生成电商详情图",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-5c9008ca-c361-4cce-b43a-83ca6a73a9af.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-c6db38b1574044c0afdfc35dc1f23bb1.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-5d6ece0a-0d80-4105-9702-9ecbf2684b98.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-20f031cb-b843-4fb7-abed-111fd7bedceb.png",
+        "https://cdn.ifrogai.com/ifrogai-public/model/dm/image/ifrogai-bfcd28a81d1f480ea7252e9688e24c87.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-5c9008ca-c361-4cce-b43a-83ca6a73a9af.png",
+      "thumbnail": "/gallery/detail-15.webp"
+    }
+  ],
+  "portrait": [
+    {
+      "id": "2097876298066350080",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-9240d1dd-90c7-4a33-8861-55d3d75a8501.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-373d1722-82f5-4338-8588-94ad838033f9.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-6eb20221-7454-49b0-af18-e4568385e5ea.png",
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/2026562078399393792/2026-09/1788967656261/e2a032c9a95c41eeb71db39a4e277aa2.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-896fa8f9-9e4c-4039-b28d-1da1b01fb783.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-f2e03a34-a21f-48a7-9353-d6924bb77256.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-9240d1dd-90c7-4a33-8861-55d3d75a8501.png",
+      "thumbnail": "/gallery/portrait-00.webp"
+    },
+    {
+      "id": "2097520981621133312",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-f15cedfe-9c1c-4527-a4f3-1be7e3a8180a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-60161705-d2b0-4ea5-b186-a90b0ca46031.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-60324d3f-7ac5-4151-a43e-e4a416e52b5f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-c76f4187-b68c-4213-b0bb-e438e1258709.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-e1884cf2-4ef6-4a71-87d0-e7bd1466f315.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-f15cedfe-9c1c-4527-a4f3-1be7e3a8180a.png",
+      "thumbnail": "/gallery/portrait-01.webp"
+    },
+    {
+      "id": "2097262753645645824",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-96b1bd24-fb56-4278-8eef-7b9588e9c8fe.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-96b1bd24-fb56-4278-8eef-7b9588e9c8fe.png",
+      "thumbnail": "/gallery/portrait-02.webp"
+    },
+    {
+      "id": "2097262598091493376",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-1d7fc2cc-4b5e-4846-8a53-14f835d473d8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-37d247b4-f98b-41e2-9f35-357d99d63b2e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-8cd30378-e277-4309-b276-10c1d1411205.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-21ea6371-7670-4082-a1b1-ab5c46b01a4c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-d1e0dd51-01c8-4937-be2b-de921866c507.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png",
+      "thumbnail": "/gallery/portrait-03.webp"
+    },
+    {
+      "id": "2097262508450828288",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-37958a85-cae2-457e-bdf4-2892655218a4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-b5ff1585-f2bc-4eb0-9149-9ce7e90b39d1.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-9a5285cd-3edc-4936-b668-2e3edfeca08b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-63f804a3-b254-486c-b5de-afd6e433c0cd.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png",
+      "thumbnail": "/gallery/portrait-04.webp"
+    },
+    {
+      "id": "2097262285037031424",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-27233fc4-7e68-4515-8eb3-5f5edf5445c4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/g31fip/ifrogai-6a7ba57a-1b32-4b62-964e-5546743cd9c1.jpg",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3e411e5d-1b00-4b1d-be17-02b05a1e49f7.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-d004e8c9-adfa-4e24-bc43-094539f74a8a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/g31fip/ifrogai-53b18f2f-ae82-403a-957c-b63b1aaeaf3d.jpg"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-27233fc4-7e68-4515-8eb3-5f5edf5445c4.png",
+      "thumbnail": "/gallery/portrait-05.webp"
+    },
+    {
+      "id": "2096991988614483968",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-37958a85-cae2-457e-bdf4-2892655218a4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-b5ff1585-f2bc-4eb0-9149-9ce7e90b39d1.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-9a5285cd-3edc-4936-b668-2e3edfeca08b.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-63f804a3-b254-486c-b5de-afd6e433c0cd.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png",
+      "thumbnail": "/gallery/portrait-06.webp"
+    },
+    {
+      "id": "2096991002114183168",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-378152fa-4707-44c7-929c-1656e44d3994.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-a3a2afbb-151a-4fa9-bdf8-8d5665149ef8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-bbb74962-7ebd-4c2b-a91b-9866459814f2.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-e9fe25e1-edeb-49b1-acf0-cb53bca2bed1.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-378152fa-4707-44c7-929c-1656e44d3994.png",
+      "thumbnail": "/gallery/portrait-07.webp"
+    },
+    {
+      "id": "2096990949375004672",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-b2ab02c2-15ec-4250-b12f-63f30bb39172.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-9cf57c2d-58b4-4604-aad6-bbb1cb99fc92.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-943f9e8a-ba49-4cf1-82a5-0ead00db2cfe.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-00ef29ce-bb32-48bf-88aa-47d1b09b9c42.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-27f3ded6-f1c3-4ae0-9c5c-5b5493ad6853.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-b2ab02c2-15ec-4250-b12f-63f30bb39172.png",
+      "thumbnail": "/gallery/portrait-08.webp"
+    },
+    {
+      "id": "2096990935168897024",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-ea6fe4d5-af74-420e-9280-41d0588510a4.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-5afb3142-7dd6-4979-b933-0a76eb766fb6.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-7ba4f7b1-5c2f-4b28-b525-ada1793eeff0.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-ec64eb32-e68c-4a83-b226-06bc3439a17c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-c58e03e3-188a-4f8d-b4fc-adb65ad86808.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-ea6fe4d5-af74-420e-9280-41d0588510a4.png",
+      "thumbnail": "/gallery/portrait-09.webp"
+    },
+    {
+      "id": "2096990917431185408",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-548d64d7-579b-4d1b-aa8e-e081a77fe4da.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-9f1b446d-e5a0-4718-ae14-d7a2de33d3a5.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-eebd90d4-78d2-4d10-bbc3-a8e4f79f8f47.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-a1a9068a-a9a0-40cc-8ce5-a8a2f67618cb.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-44b2c1e9-19f3-4d5b-b602-88ccc8faddbb.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-548d64d7-579b-4d1b-aa8e-e081a77fe4da.png",
+      "thumbnail": "/gallery/portrait-10.webp"
+    },
+    {
+      "id": "2096990877295890432",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-a0b88e18-6d98-4e8b-ae63-b33a5e18ff6a.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-a76b8193-f14c-49d2-836c-49fb8bc35225.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-7d96cd09-d9bf-42f4-a89a-03b1e4f7d9d6.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-95220e34-c1eb-4d50-992a-27cb29e9919f.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-2b895dea-ce3a-4897-b802-a7a723a3334b.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-a0b88e18-6d98-4e8b-ae63-b33a5e18ff6a.png",
+      "thumbnail": "/gallery/portrait-11.webp"
+    },
+    {
+      "id": "2096990404333588480",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-021a2a81-9b79-4c9f-8c4c-71196a16852e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-6c1439c8-9f8f-402a-a104-4e0c8ad7707c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-d2998400-f3d5-410f-98db-0c25c5d5a3d7.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-67d2043c-e0c4-4759-a3af-cdd083c53dde.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-d84e8aeb-e007-4308-9ba6-e5d7daccb5cc.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-021a2a81-9b79-4c9f-8c4c-71196a16852e.png",
+      "thumbnail": "/gallery/portrait-12.webp"
+    },
+    {
+      "id": "2096990392186884096",
+      "title": "随拍写真",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-1d7fc2cc-4b5e-4846-8a53-14f835d473d8.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-37d247b4-f98b-41e2-9f35-357d99d63b2e.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-8cd30378-e277-4309-b276-10c1d1411205.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-21ea6371-7670-4082-a1b1-ab5c46b01a4c.png",
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-d1e0dd51-01c8-4937-be2b-de921866c507.png"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png",
+      "thumbnail": "/gallery/portrait-13.webp"
+    }
+  ],
+  "tvc": [
+    {
+      "id": "2092286239330062336",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674885044/1b31eac1ee984fff9d5114d93266f9ea.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674885693/54c560b4caf6429b94ca3fceefb96c9c.jpg",
+      "thumbnail": "/gallery/tvc-00.webp"
+    },
+    {
+      "id": "2092286113790349312",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674854886/464017c249534b14a496f0d35ceaffe2.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674855445/2b4fd0f3f0764af3a838aa28184ef220.jpg",
+      "thumbnail": "/gallery/tvc-01.webp"
+    },
+    {
+      "id": "2092286022388076544",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674832103/21c1756246d144bfa8559961a93a6b6b.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674832527/f5a1bb140d644e9db6bf4bf84b61b225.jpg",
+      "thumbnail": "/gallery/tvc-02.webp"
+    },
+    {
+      "id": "2092285796361228288",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674778052/8d7a3d952cd649efb1e1e66dc1dd7b59.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674778432/ddc9f8bc9c174d0396e03c33ea96211a.jpg",
+      "thumbnail": "/gallery/tvc-03.webp"
+    },
+    {
+      "id": "2092285676391550976",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674749440/ba73398ae4db46b29589cec07d313c24.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674749917/b4563569601f483eaf41700b4672a935.jpg",
+      "thumbnail": "/gallery/tvc-04.webp"
+    },
+    {
+      "id": "2092285265299427328",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674649453/0b70bdce847a4dd9b7f67f2f840ead25.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674651767/8a7f7ee122b84033be8f9661c83d4aa9.jpg",
+      "thumbnail": "/gallery/tvc-05.webp"
+    },
+    {
+      "id": "2092285153676414976",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674623654/08aa42ac3a2148afab44698e0a47bd8d.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674624265/c335b0261d0643968b6e9f9a279462c5.jpg",
+      "thumbnail": "/gallery/tvc-06.webp"
+    },
+    {
+      "id": "2092284937007058944",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674575255/5c27d263dd914d859166006647484f1f.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674576435/26ddafc0575a455491d877bda1c2ebb8.jpg",
+      "thumbnail": "/gallery/tvc-07.webp"
+    },
+    {
+      "id": "2092284770149257216",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674534019/f52f6fb7b65f47d68a40b93caad8e751.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674534570/5a52c84c9b704a70ba40ed5a22c70363.jpg",
+      "thumbnail": "/gallery/tvc-08.webp"
+    },
+    {
+      "id": "2092284529169715200",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674476303/b103ac098c2f48f88adff4f2fc5a0b40.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674477076/6cf74aee074b4a93a61824d63dbf6d90.jpg",
+      "thumbnail": "/gallery/tvc-09.webp"
+    },
+    {
+      "id": "2092284237850136576",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674407789/effa057562634ce7ba83f76a9cfdd771.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674408055/a29ddfd45b1944de8ac3dc43906486e6.jpg",
+      "thumbnail": "/gallery/tvc-10.webp"
+    },
+    {
+      "id": "2092284052440928256",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674363632/05271cd865d145e1884a4f8de3f12689.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674363991/44d1679f06fe46b78ad4cb55a9034f2c.jpg",
+      "thumbnail": "/gallery/tvc-11.webp"
+    },
+    {
+      "id": "2092283752976011264",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674291222/fa339791e3ea40fe846de66fd801e4a4.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674291879/f347e72505d14d0eb80b7811dbe13d5a.jpg",
+      "thumbnail": "/gallery/tvc-12.webp"
+    },
+    {
+      "id": "2092283410125213696",
+      "title": "AI 视频案例",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/web_video_douyin_7671919443966004507.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674206608/c4662274ce39456ea54e8bb0c357a7ea.jpg",
+      "thumbnail": "/gallery/tvc-13.webp"
+    }
+  ],
+  "talking": [
+    {
+      "id": "2111043050593898496",
+      "title": "一句话生视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2020522161749790720/2026-10/sg/s20p/ifrogai-19a8d1ed-4f66-4aca-b703-e5abf8ab2730.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2020522161749790720/2026-10/1792069390102/193cfa2bb820429a98fa3c18899c5799.png",
+      "thumbnail": "/gallery/talking-00.webp"
+    },
+    {
+      "id": "2096942510964527104",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2087445917982838784/2026-08/sg/s20s/ifrogai-e109cb1a-a610-4f32-a307-c8e8c33cdc29.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2087445917982838784/2026-08/1786521115191/9fbf460f064e45e6b25c8e558a12fea6.jpg",
+      "thumbnail": "/gallery/talking-01.webp"
+    },
+    {
+      "id": "2095766861184815104",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2061037691977338880/2026-08/sg/s20p/ifrogai-0b681d08-46fb-4410-b4a0-6c251e9b5f9b.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2061037691977338880/2026-08/1787838479761/c46376fab3794e31a68433f8152f803e.jpg",
+      "thumbnail": "/gallery/talking-02.webp"
+    },
+    {
+      "id": "2095766798769377280",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2089250515232018432/2026-08/sg/s20s/ifrogai-1e5737e5-6191-4261-9752-09baa4ef77d8.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2089250515232018432/2026-08/yq/gi2a/ifrogai-6e501253-5a61-4a64-a4a9-9ab62707b989.png",
+      "thumbnail": "/gallery/talking-03.webp"
+    },
+    {
+      "id": "2095720458584641536",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2057266344285442048/2026-08/sg/s20p/ifrogai-87277344-5af5-45c2-a5d1-14169cf6c9ec.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2057266344285442048/2026-08/1787542435985/bfd0e2431b974b5c81ca55d83a8e03ee.jpg",
+      "thumbnail": "/gallery/talking-04.webp"
+    },
+    {
+      "id": "2095720421393747968",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2048655315938840576/2026-08/sg/s20p/ifrogai-eb28493b-6caa-4c13-a819-c890d5e505e8.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2048655315938840576/2026-08/1787973598462/65f4f5673008448e81af3bf90745849e.jpg",
+      "thumbnail": "/gallery/talking-05.webp"
+    },
+    {
+      "id": "2095720377408081920",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2056620234067939328/2026-08/sg/s20p/ifrogai-061c2255-5505-4037-a99f-b37792cce200.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2056620234067939328/2026-08/1788144968635/305ac44a27df4cd9b2cf2f3b038854f8.png",
+      "thumbnail": "/gallery/talking-06.webp"
+    },
+    {
+      "id": "2095720173715902464",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2058584164399058944/2026-09/sg/s20p/ifrogai-1a1d7ae2-f6c3-4b99-9bed-a95c812a7b54.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2058584164399058944/2026-09/1788235787251/0cc713967781411395020e23529f1351.png",
+      "thumbnail": "/gallery/talking-07.webp"
+    },
+    {
+      "id": "2095720046993395712",
+      "title": "生成电商口播带货视频-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/2085974115653832704/2026-09/sg/s20p/ifrogai-53d91cfe-26cd-4ccc-ab79-35db0d26bd59.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2085974115653832704/2026-09/1788402036133/c1bd59246869429dbec4a0b81f044886.png",
+      "thumbnail": "/gallery/talking-08.webp"
+    }
+  ],
+  "apparel": [
+    {
+      "id": "2091721801887698944",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-0279496f-5107-4a09-854c-91f1baec705c.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-72510262-0dd7-4c55-822b-360b69e64e62.png",
+      "thumbnail": "/gallery/apparel-00.webp"
+    },
+    {
+      "id": "2091721784032546816",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-b495e540-a443-44f9-89a2-27f7b7a302ab.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-af05abad-86c2-4479-be9b-533d70c57e08.png",
+      "thumbnail": "/gallery/apparel-01.webp"
+    },
+    {
+      "id": "2091721771520937984",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-2247ca7b-301e-460d-8d43-aeb789436d3e.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-73d81209-829f-463c-9b18-843506e3f5f2.png",
+      "thumbnail": "/gallery/apparel-02.webp"
+    },
+    {
+      "id": "2089912082265067520",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-645f593d-61a9-4561-9720-e9027f9fd920.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-cd1a9158-1b62-4917-af82-8079023a0249.png",
+      "thumbnail": "/gallery/apparel-03.webp"
+    },
+    {
+      "id": "2089912066402209792",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-a83d5244-9252-41f8-a635-de5dcffd77f2.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/dm/g31fip/ifrogai-cf23f764-6ca6-435d-9e35-4fc95bf72fac.png",
+      "thumbnail": "/gallery/apparel-04.webp"
+    },
+    {
+      "id": "2089912052712001536",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-19bf6f85-c7b6-45af-9a5d-5e9240327321.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/dm/g31fip/ifrogai-a92dc691-2449-44c9-ae05-b62b96ad34df.png",
+      "thumbnail": "/gallery/apparel-05.webp"
+    },
+    {
+      "id": "2088510622549725184",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yw/ko/ifrogai-84e28049-fa7a-4537-99e9-4861a1073380.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-afcdf561-a186-4fc0-b044-8529b85cff4e.png",
+      "thumbnail": "/gallery/apparel-06.webp"
+    },
+    {
+      "id": "2088510607198572544",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-bf104694-5843-4db6-85e3-757612470e00.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-514de27d-7806-4c69-b17e-ccb92f9cf4b1.png",
+      "thumbnail": "/gallery/apparel-07.webp"
+    },
+    {
+      "id": "2088510592157798400",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-b9c1fa5c-33a1-4687-9794-239497e5b8a9.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-347c2584-0463-4f5a-ac45-cb864e519c6b.png",
+      "thumbnail": "/gallery/apparel-08.webp"
+    },
+    {
+      "id": "2088510543868776448",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-24cb6e80-bfaf-4c0d-9c88-18dd8e9a10f5.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-40bf1cb4-b8d5-4665-9cdb-2f0106723485.png",
+      "thumbnail": "/gallery/apparel-09.webp"
+    },
+    {
+      "id": "2088315407931068416",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-24cb6e80-bfaf-4c0d-9c88-18dd8e9a10f5.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-40bf1cb4-b8d5-4665-9cdb-2f0106723485.png",
+      "thumbnail": "/gallery/apparel-10.webp"
+    },
+    {
+      "id": "2087853325985042432",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-bf104694-5843-4db6-85e3-757612470e00.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-514de27d-7806-4c69-b17e-ccb92f9cf4b1.png",
+      "thumbnail": "/gallery/apparel-11.webp"
+    },
+    {
+      "id": "2087853318464655360",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-13835c43-d4f5-474c-8a96-48f7a2094910.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-bc886c89-cd39-46a6-84c1-eddc8ac216da.png",
+      "thumbnail": "/gallery/apparel-12.webp"
+    },
+    {
+      "id": "2087853178169380864",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-b9c1fa5c-33a1-4687-9794-239497e5b8a9.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-347c2584-0463-4f5a-ac45-cb864e519c6b.png",
+      "thumbnail": "/gallery/apparel-13.webp"
+    },
+    {
+      "id": "2087371997271347200",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-f3d53350-4227-4cc4-9cd2-8eaa559f8c07.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-2129ee70-a1d5-40f1-870c-497263dc4141.png",
+      "thumbnail": "/gallery/apparel-14.webp"
+    },
+    {
+      "id": "2087205894767300608",
+      "title": "爆款短视频复刻-生成视频",
+      "urls": [
+        "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/bv/ifrogai-56c60b86-a428-45b3-9ee1-6e167b39f7ba.mp4"
+      ],
+      "poster": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-2e2321e8-285c-40e1-ba0c-765d6a09e7c6.png",
+      "thumbnail": "/gallery/apparel-15.webp"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+[
+  {
+    "url": "https://www.ifrogai.com/favicon.ico",
+    "local": "/favicon.ico",
+    "bytes": 60619
+  },
+  {
+    "url": "https://www.ifrogai.com/hero-poster.jpg",
+    "local": "/hero-poster.jpg",
+    "bytes": 74606
+  },
+  {
+    "url": "https://www.ifrogai.com/images/apparel/after-onmodel.webp",
+    "local": "/images/apparel/after-onmodel.webp",
+    "bytes": 66646
+  },
+  {
+    "url": "https://www.ifrogai.com/images/apparel/before-flatlay.webp",
+    "local": "/images/apparel/before-flatlay.webp",
+    "bytes": 146946
+  },
+  {
+    "url": "https://www.ifrogai.com/images/apparel/consistency-matrix.webp",
+    "local": "/images/apparel/consistency-matrix.webp",
+    "bytes": 110964
+  },
+  {
+    "url": "https://www.ifrogai.com/images/apparel/texture-macro.webp",
+    "local": "/images/apparel/texture-macro.webp",
+    "bytes": 136838
+  },
+  {
+    "url": "https://www.ifrogai.com/images/hero/proof-1-model.webp",
+    "local": "/images/hero/proof-1-model.webp",
+    "bytes": 9640
+  },
+  {
+    "url": "https://www.ifrogai.com/images/hero/proof-2-bag.webp",
+    "local": "/images/hero/proof-2-bag.webp",
+    "bytes": 2668
+  },
+  {
+    "url": "https://www.ifrogai.com/images/hero/proof-3-bottle.webp",
+    "local": "/images/hero/proof-3-bottle.webp",
+    "bytes": 2260
+  },
+  {
+    "url": "https://www.ifrogai.com/images/hero/proof-4-texture.webp",
+    "local": "/images/hero/proof-4-texture.webp",
+    "bytes": 21692
+  },
+  {
+    "url": "https://www.ifrogai.com/images/hero/proof-5-video.webp",
+    "local": "/images/hero/proof-5-video.webp",
+    "bytes": 3612
+  },
+  {
+    "url": "https://www.ifrogai.com/images/logo_1-removebg-preview.png",
+    "local": "/images/logo_1-removebg-preview.png",
+    "bytes": 60619
+  },
+  {
+    "url": "https://www.ifrogai.com/images/mini-qr.jpg",
+    "local": "/images/mini-qr.jpg",
+    "bytes": 78609
+  },
+  {
+    "url": "https://www.ifrogai.com/images/service.jpg",
+    "local": "/images/service.jpg",
+    "bytes": 138648
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/input-packshot.webp",
+    "local": "/images/showcase/input-packshot.webp",
+    "bytes": 3694
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/output-detail.webp",
+    "local": "/images/showcase/output-detail.webp",
+    "bytes": 87476
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/output-main.webp",
+    "local": "/images/showcase/output-main.webp",
+    "bytes": 37422
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/output-video.webp",
+    "local": "/images/showcase/output-video.webp",
+    "bytes": 38632
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/scenario-ecommerce.webp",
+    "local": "/images/showcase/scenario-ecommerce.webp",
+    "bytes": 49484
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/scenario-social.webp",
+    "local": "/images/showcase/scenario-social.webp",
+    "bytes": 75816
+  },
+  {
+    "url": "https://www.ifrogai.com/images/showcase/scenario-video.webp",
+    "local": "/images/showcase/scenario-video.webp",
+    "bytes": 77358
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-4d08d611-0c3b-411a-8ab8-f0d32570c621.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-00.webp",
+    "bytes": 23830,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-2a2282cd-5e8b-4cec-970d-27033c968bdd.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-01.webp",
+    "bytes": 29570,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-4c504294-bb00-437a-8cde-e99efb69a8e3.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-02.webp",
+    "bytes": 57120,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/gs/gi2/ifrogai-ddc9ddc9-62cb-4f88-a981-2d35a4a69a54.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-03.webp",
+    "bytes": 27420,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095419984463581184/2026-09/gs/gi2/ifrogai-6f522994-ee0a-4ac5-b5de-33a60634d336.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-04.webp",
+    "bytes": 42468,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094989528064643072/2026-09/gs/gi2/ifrogai-5cf57d42-32fe-4d1c-9be1-3342f2819e03.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-05.webp",
+    "bytes": 61388,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094798837858488320/2026-09/gs/gi2/ifrogai-5083500e-8501-41d1-a412-cc27c9e30ff3.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-06.webp",
+    "bytes": 23642,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094770956176510976/2026-09/gs/gi2/ifrogai-d23d4ecf-95b8-4c1a-bb89-8e53de01d5ed.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-07.webp",
+    "bytes": 48294,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094628597715488768/2026-09/gs/gi2/ifrogai-a7e214eb-de55-4c26-9239-a898ebda4034.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-08.webp",
+    "bytes": 27116,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094136148664569856/2026-08/gs/gi2/ifrogai-2286ff4a-3edd-4fe5-b3f9-56e786c62c6c.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-09.webp",
+    "bytes": 68130,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093248121280974848/2026-08/gs/gi2/ifrogai-3df7db03-1546-4be6-b28f-261160f5ef93.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-10.webp",
+    "bytes": 33106,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093211073874546688/2026-08/dm/gi2/ifrogai-9360bd72-c107-401b-b456-987624fa3b40.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-11.webp",
+    "bytes": 52314,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092333102187991040/2026-08/gs/gi2/ifrogai-cb9e5577-bce4-475c-b586-4aa7c72a32d3.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-12.webp",
+    "bytes": 34166,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090744943721369600/2026-08/gs/gi2/ifrogai-c0b2c750-6124-4e97-88d4-dc0f23ee9163.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-13.webp",
+    "bytes": 31292,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090641833418084352/2026-08/dm/gi2/ifrogai-8993a2e9-78b3-4751-b331-71f819c9c34a.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-14.webp",
+    "bytes": 33964,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090018632996540416/2026-08/gs/gi2/ifrogai-f9ebe6ca-d60c-470d-86b5-a331d0d7f7aa.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/main-15.webp",
+    "bytes": 24862,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094953244982038528/2026-09/gs/gi2/ifrogai-9cafbe5e-c471-4acc-a25d-2c02b54b29da.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-00.webp",
+    "bytes": 30020,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095111718193909760/2026-09/gs/gi2/ifrogai-bb93a994-5ca3-49a5-b6d5-5d150887197a.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-01.webp",
+    "bytes": 50542,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2092999582063841280/2026-09/gs/gi2/ifrogai-e78760f8-6dd5-4846-ab92-35c29bb44931.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-02.webp",
+    "bytes": 38088,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094361361532637184/2026-09/gs/gi2/ifrogai-5242e527-bd76-4cfd-9cec-e10c7571d854.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-03.webp",
+    "bytes": 44640,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2094658262396096512/2026-09/gs/gi2/ifrogai-b0894105-8201-4776-a423-f8ec3b176235.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-04.webp",
+    "bytes": 26674,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2093601858184859648/2026-08/gs/gi2/ifrogai-a31ad757-5b67-4355-9f0a-3843fb26eb3b.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-05.webp",
+    "bytes": 33582,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2090978752307974144/2026-08/gs/gi2/ifrogai-fb09a102-5f5a-4be0-b6ea-0a9da616656d.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-06.webp",
+    "bytes": 43912,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-936f02d6-f6ea-4b96-96fb-90016bf36c20.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-07.webp",
+    "bytes": 23318,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-92da642a-dfd5-4de8-9187-2649cac2a92f.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-08.webp",
+    "bytes": 62870,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-5ed072c3-762a-4c7b-9389-20d9985265ca.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-09.webp",
+    "bytes": 33358,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-2aa91eee-9117-43f7-ac10-ce6a80315bed.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-10.webp",
+    "bytes": 22880,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-fbc188de-ab8d-4f9d-8dae-5d0d8db4cf3d.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-11.webp",
+    "bytes": 24780,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-08beeb75-8e07-42ef-a8cd-f6a80e873ac1.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-12.webp",
+    "bytes": 39824,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-15247ef4-09c8-469b-b3bd-73186fda9681.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-13.webp",
+    "bytes": 19340,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/gi2/image/ifrogai-f901de31-f3f1-40c7-a54f-adb6d1d82abe.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-14.webp",
+    "bytes": 17990,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/model/gi2/image/ifrogai-5c9008ca-c361-4cce-b43a-83ca6a73a9af.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/detail-15.webp",
+    "bytes": 32232,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi25s/ifrogai-9240d1dd-90c7-4a33-8861-55d3d75a8501.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-00.webp",
+    "bytes": 59978,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-f15cedfe-9c1c-4527-a4f3-1be7e3a8180a.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-01.webp",
+    "bytes": 40988,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-96b1bd24-fb56-4278-8eef-7b9588e9c8fe.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-02.webp",
+    "bytes": 31776,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-03.webp",
+    "bytes": 33108,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-04.webp",
+    "bytes": 37306,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-27233fc4-7e68-4515-8eb3-5f5edf5445c4.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-05.webp",
+    "bytes": 28478,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-3cd02ae3-d3a6-407e-b18f-308dbea6b9fa.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-06.webp",
+    "bytes": 37306,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/dm/gi2/ifrogai-378152fa-4707-44c7-929c-1656e44d3994.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-07.webp",
+    "bytes": 23264,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-b2ab02c2-15ec-4250-b12f-63f30bb39172.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-08.webp",
+    "bytes": 41914,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-ea6fe4d5-af74-420e-9280-41d0588510a4.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-09.webp",
+    "bytes": 27488,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-548d64d7-579b-4d1b-aa8e-e081a77fe4da.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-10.webp",
+    "bytes": 35766,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-a0b88e18-6d98-4e8b-ae63-b33a5e18ff6a.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-11.webp",
+    "bytes": 30520,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-021a2a81-9b79-4c9f-8c4c-71196a16852e.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-12.webp",
+    "bytes": 37560,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2026562078399393792/2026-09/gs/gi2/ifrogai-05bc58a9-02c7-4c83-b19d-25e240197add.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/portrait-13.webp",
+    "bytes": 33108,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674885693/54c560b4caf6429b94ca3fceefb96c9c.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-00.webp",
+    "bytes": 9222,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674855445/2b4fd0f3f0764af3a838aa28184ef220.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-01.webp",
+    "bytes": 20268,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674832527/f5a1bb140d644e9db6bf4bf84b61b225.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-02.webp",
+    "bytes": 22404,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674778432/ddc9f8bc9c174d0396e03c33ea96211a.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-03.webp",
+    "bytes": 16544,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674749917/b4563569601f483eaf41700b4672a935.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-04.webp",
+    "bytes": 10032,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674651767/8a7f7ee122b84033be8f9661c83d4aa9.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-05.webp",
+    "bytes": 17830,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674624265/c335b0261d0643968b6e9f9a279462c5.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-06.webp",
+    "bytes": 19264,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674576435/26ddafc0575a455491d877bda1c2ebb8.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-07.webp",
+    "bytes": 20598,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674534570/5a52c84c9b704a70ba40ed5a22c70363.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-08.webp",
+    "bytes": 20090,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674477076/6cf74aee074b4a93a61824d63dbf6d90.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-09.webp",
+    "bytes": 25742,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674408055/a29ddfd45b1944de8ac3dc43906486e6.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-10.webp",
+    "bytes": 18806,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674363991/44d1679f06fe46b78ad4cb55a9034f2c.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-11.webp",
+    "bytes": 14338,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674291879/f347e72505d14d0eb80b7811dbe13d5a.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-12.webp",
+    "bytes": 47986,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674206608/c4662274ce39456ea54e8bb0c357a7ea.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/tvc-13.webp",
+    "bytes": 22668,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2020522161749790720/2026-10/1792069390102/193cfa2bb820429a98fa3c18899c5799.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-00.webp",
+    "bytes": 56782,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2087445917982838784/2026-08/1786521115191/9fbf460f064e45e6b25c8e558a12fea6.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-01.webp",
+    "bytes": 36324,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2061037691977338880/2026-08/1787838479761/c46376fab3794e31a68433f8152f803e.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-02.webp",
+    "bytes": 32336,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2089250515232018432/2026-08/yq/gi2a/ifrogai-6e501253-5a61-4a64-a4a9-9ab62707b989.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-03.webp",
+    "bytes": 17204,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2057266344285442048/2026-08/1787542435985/bfd0e2431b974b5c81ca55d83a8e03ee.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-04.webp",
+    "bytes": 27326,
+    "dimensions": [
+      480,
+      700
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2048655315938840576/2026-08/1787973598462/65f4f5673008448e81af3bf90745849e.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-05.webp",
+    "bytes": 45278,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2056620234067939328/2026-08/1788144968635/305ac44a27df4cd9b2cf2f3b038854f8.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-06.webp",
+    "bytes": 17550,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2058584164399058944/2026-09/1788235787251/0cc713967781411395020e23529f1351.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-07.webp",
+    "bytes": 24142,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/2085974115653832704/2026-09/1788402036133/c1bd59246869429dbec4a0b81f044886.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/talking-08.webp",
+    "bytes": 42590,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-72510262-0dd7-4c55-822b-360b69e64e62.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-00.webp",
+    "bytes": 7432,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-af05abad-86c2-4479-be9b-533d70c57e08.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-01.webp",
+    "bytes": 12858,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-73d81209-829f-463c-9b18-843506e3f5f2.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-02.webp",
+    "bytes": 5474,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-cd1a9158-1b62-4917-af82-8079023a0249.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-03.webp",
+    "bytes": 10756,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/dm/g31fip/ifrogai-cf23f764-6ca6-435d-9e35-4fc95bf72fac.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-04.webp",
+    "bytes": 7396,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/dm/g31fip/ifrogai-a92dc691-2449-44c9-ae05-b62b96ad34df.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-05.webp",
+    "bytes": 12960,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-afcdf561-a186-4fc0-b044-8529b85cff4e.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-06.webp",
+    "bytes": 11050,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-514de27d-7806-4c69-b17e-ccb92f9cf4b1.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-07.webp",
+    "bytes": 6362,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-347c2584-0463-4f5a-ac45-cb864e519c6b.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-08.webp",
+    "bytes": 7450,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-40bf1cb4-b8d5-4665-9cdb-2f0106723485.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-09.webp",
+    "bytes": 10272,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-40bf1cb4-b8d5-4665-9cdb-2f0106723485.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-10.webp",
+    "bytes": 10272,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-514de27d-7806-4c69-b17e-ccb92f9cf4b1.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-11.webp",
+    "bytes": 6362,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/yq/g31fi/ifrogai-image-bc886c89-cd39-46a6-84c1-eddc8ac216da.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-12.webp",
+    "bytes": 7984,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-347c2584-0463-4f5a-ac45-cb864e519c6b.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-13.webp",
+    "bytes": 7450,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-2129ee70-a1d5-40f1-870c-497263dc4141.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-14.webp",
+    "bytes": 7236,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/888/2026-08/rh/da/ifrogai-2e2321e8-285c-40e1-ba0c-765d6a09e7c6.png?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/gallery/apparel-15.webp",
+    "bytes": 9384,
+    "dimensions": [
+      480,
+      720
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-05/1779360902692/ca59c6b0a33e4b7086d236332f519118.mp4",
+    "local": "/hero-video.mp4",
+    "bytes": 5017429
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2111378299089637376/2026-10/dm/gi2/ifrogai-4d08d611-0c3b-411a-8ab8-f0d32570c621.png?imageMogr2/thumbnail/240x/format/webp/quality/78",
+    "local": "/images/hero/live-proof-1.webp",
+    "bytes": 7956,
+    "dimensions": [
+      240,
+      320
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2097190289745956864/2026-09/gs/gi2/ifrogai-2a2282cd-5e8b-4cec-970d-27033c968bdd.png?imageMogr2/thumbnail/240x/format/webp/quality/78",
+    "local": "/images/hero/live-proof-2.webp",
+    "bytes": 9988,
+    "dimensions": [
+      240,
+      240
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2095808203336241152/2026-09/gs/gi2/ifrogai-4c504294-bb00-437a-8cde-e99efb69a8e3.png?imageMogr2/thumbnail/240x/format/webp/quality/78",
+    "local": "/images/hero/live-proof-3.webp",
+    "bytes": 20230,
+    "dimensions": [
+      240,
+      320
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/user-ai/2096143626784788480/2026-09/gs/gi2/ifrogai-ddc9ddc9-62cb-4f88-a981-2d35a4a69a54.png?imageMogr2/thumbnail/240x/format/webp/quality/78",
+    "local": "/images/hero/live-proof-4.webp",
+    "bytes": 6416,
+    "dimensions": [
+      240,
+      240
+    ]
+  },
+  {
+    "url": "https://cdn.ifrogai.com/ifrogai-public/userUpload/888/2026-08/1787674885693/54c560b4caf6429b94ca3fceefb96c9c.jpg?imageMogr2/thumbnail/480x/gravity/north/crop/480x720/format/webp/quality/72",
+    "local": "/images/hero/live-proof-5.webp",
+    "bytes": 9222,
+    "dimensions": [
+      480,
+      720
+    ]
+  }
+]
